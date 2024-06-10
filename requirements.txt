@@ -1,0 +1,9 @@
+gradio
+requests-html
+aiohttp
+pyppeteer
+nest_asyncio
+playwright
+Pillow
+beautifulsoup4
+opencv-python-headless
